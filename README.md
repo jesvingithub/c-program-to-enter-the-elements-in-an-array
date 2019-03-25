@@ -1,0 +1,1 @@
+# c-program-to-enter-the-elements-in-an-array
